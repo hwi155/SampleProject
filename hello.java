@@ -1,5 +1,6 @@
 public class Hello{
    public static void main(String[] args) {
        System.out.printlin("Hello! World!");
+       System.out.printlin("Bye!");
    }
 }
